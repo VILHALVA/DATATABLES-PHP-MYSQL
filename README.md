@@ -37,10 +37,10 @@ Este projeto é um **CRUD** básico (Create, Read, Update, Delete) usando **PHP*
    - Abra o arquivo `./CODIGO/conexion.php` e ajuste as configurações do banco de dados:
 
      ```php
-    $server = "localhost";
-    $user = "seu_usuario";
-    $password = "sua_senha";
-    $bd = "prova";
+       $server = "localhost";
+       $user = "seu_usuario";
+       $password = "sua_senha";
+       $bd = "prova";
      ```
 
 3. **Executando o Aplicativo com Apache:**
